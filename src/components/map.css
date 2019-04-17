@@ -1,0 +1,21 @@
+.leaflet-popup-content {
+  width: auto !important;
+}
+
+.item a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  letter-spacing: 1.4px;
+  word-spacing: 2px;
+  color: #1c8dff;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: none;
+  cursor: pointer;
+}
+
+.item a:hover {
+  color: #333;
+}

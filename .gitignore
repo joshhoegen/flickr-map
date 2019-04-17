@@ -1,0 +1,22 @@
+*.egg-info/
+.installed.cfg
+*.egg
+
+# logs
+*log.txt
+*.log
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Other
+node_modules/
+app/lib/
+dist/
+.nuxt
+
+# OS stuff
+.DS_Store
+package-lock.json
